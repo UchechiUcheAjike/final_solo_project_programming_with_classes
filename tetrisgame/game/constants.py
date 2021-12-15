@@ -2,7 +2,7 @@ from pathlib import Path
 home = Path.home()
 assets: Path = Path(__file__).parent / 'assets'
 
-#   List ofcolors
+#   List of colors
 
 colors = [
     (0, 0, 0),
